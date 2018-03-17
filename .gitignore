@@ -3,6 +3,7 @@ node_modules
 
 # User custom
 .vscode
+
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
