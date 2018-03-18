@@ -3,13 +3,13 @@ branch-defaults:
     environment: null
     group_suffix: null
   master:
-    environment: nodejs-v1-dev
+    environment: awseb-node-sample-dev
 environment-defaults:
-  nodejs-v1-dev:
+  awseb-node-sample-dev:
     branch: null
     repository: null
 global:
-  application_name: nodejs-v1
+  application_name: awseb-node-sample
   branch: null
   default_ec2_keyname: aws-eb
   default_platform: Node.js
